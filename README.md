@@ -52,19 +52,4 @@ It uses **dual AI systems** — one for analyzing clinical reports and another f
 | Storage | LocalStorage (Client-side) |
 | Architecture | Single Page Application (SPA) |
 
-## 👥 Team Members
 
-| Roll No     | Name              |
-|-------------|-------------------|
-| 2203A52154  | K. Shiva Shankar  |
-| 2203A52022  | G. Hrudai         |
-| 2203A52110  | N. Siddhartha     |
-| 2203A52175  | S. Rahul Sunny    |
-| 2203A52234  | S. Gayatri        |
-| 2203A52193  | T. Rahul          |
-
----
-
-## 🎓 Mentor
-
-**DR. VIJAYA PRAKASH**
